@@ -66,5 +66,5 @@ To view the different stages of the AirBnB Clone project, simply open the respec
 ## Contributing
 This project is not actively maintained as it was created as part of learning exercise. However, feel free to fork the repository and make any improvements or modifications if you find it useful.
 
-## License
+## License :wink:
 This project is licensed under the [MIT Licence](). Feel free to use, modify and distribute the code as per the terms of the license
