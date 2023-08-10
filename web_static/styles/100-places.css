@@ -88,6 +88,12 @@ div.information div.number_bathrooms {
         width: 100%;
 }
 
+
+.places article div.reviews {
+transform: translateY(-255%);
+}
+
+
 article div.reviews {
 	margin-top: 30px;
 }
