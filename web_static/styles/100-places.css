@@ -73,14 +73,23 @@ div.information div.number_bathrooms {
         background-image: url(../images/icon_bath.png);
 }
 
-.user, .description {
+.user {
         font-size: 14px;
-        margin: 2px 0px;
+        margin-top: 13px;
 }
 
-.places article div.amenities, .places article div.reviews {
-        margin-top: 40px;
+.description {
+	font-size: 14px;
+	margin-top: 14px;
+}
+
+.places article div.amenities {
+        margin-top: 30px;
         width: 100%;
+}
+
+article div.reviews {
+	margin-top: 30px;
 }
 .places article div.amenities h2, .places article div.reviews h2 {
         font-size: 16px;
@@ -90,6 +99,7 @@ div.information div.number_bathrooms {
         padding-bottom: 10px;
 
 }
+
 
 article div.amenities ul, div.reviews ul {
         padding: 0px;
@@ -102,7 +112,7 @@ article div.amenities ul li, article div.reviews ul li {
         list-style: none;
 }
 article div.amenities ul li {
-        height: 25px;
+	height: 25px;
         width: 25px;
         background-repeat: no-repeat;
         background-position: center left;
@@ -118,6 +128,7 @@ div.amenities ul li.Wifi {
 div.amenities ul li.Peta {
         background-image: url(../images/icon_pets.png);
 }
+
 div.reviews ul li h3 {
         font-size: 14px;
 }
